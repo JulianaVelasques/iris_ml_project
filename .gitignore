@@ -1,0 +1,10 @@
+# Jupyter Notebook Checkpoints:
+.ipynb_checkpoints/
+
+# Virtual Environment
+dev/
+
+.DS_Store
+*.log
+*.pyc
+__pycache__/
